@@ -1,2 +1,2 @@
-# java_demo
-This is my Java code repo
+## Welcome to My Java Code Repository
+- This is my Java code repo
